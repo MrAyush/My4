@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">My4</string>
+    <string name="spinnerText">Select gender</string>
+    <string name="listText">List your files</string>
+    <string-array name="gender">
+        <item>Select</item>
+        <item>Male</item>
+        <item>Female</item>
+    </string-array>
+</resources>
